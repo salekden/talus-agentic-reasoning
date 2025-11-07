@@ -1,0 +1,5 @@
+# Talus Core — Recursive Reasoning Engine (Thread Loop)
+Talus’s design encourages recursion within reasoning,
+where each calculation re-examines its premise.
+This transforms inference into self-aware computation —
+not automation, but cognition.
